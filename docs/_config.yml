@@ -23,7 +23,7 @@ email: andersonluke1128@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is created by Luke Anderson for posts about coding, networking, homelabbing, and any other computer science related accomplishments
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ldanderson3.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: None
 github_username:  Ldanderson3
 
