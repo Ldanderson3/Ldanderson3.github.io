@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning Java"
 date:   2026-06-23 18:54:14 -0600
-categories: Blog Changes
+categories: Java
 ---
 
 
