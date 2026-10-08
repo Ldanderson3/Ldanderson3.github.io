@@ -10,7 +10,7 @@ UML stands for Unified modeling language, and is commonly used by software engin
 
 ## UML for web app
 The UML diagram is below:
-![UML Diagram](https://raw.githubusercontent.com/[Ldanderson3]/[Ldanderson3.github.io]/blob/main/docs/_posts/UML-Diagram-final.png)
+![UML Diagram](https://raw.githubusercontent.com/Ldanderson3/Ldanderson3.github.io/blob/main/docs/_posts/UML-Diagram-final.png)
 
 Below is the UML code for the diagram:
 ```
